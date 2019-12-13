@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+}
+.countries_info-block {
+    border: 2px solid;
+    width: 60%;
+    padding: 0 10px;
+}
+.countries_info {
+    padding: 10px 0;
+    display: flex;
+}
+.info-div {
+    margin-right: 45%;
+}
+.countries_info p {
+    margin: 0;
+    padding: 0 0 5px;
+}
+.countries_info h3 {
+    margin: 10px 0 20px;
+    padding: 0;
+
+    font-size: 30px;
+}
+.countries_info img {
+    width: 150px;
+    margin-top: 10px;
+}
