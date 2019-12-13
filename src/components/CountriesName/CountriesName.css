@@ -1,0 +1,31 @@
+.main-block {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.countries_name-block {
+    border: 2px solid;
+    width: 250px;
+    height: 350px;
+    overflow: auto;
+    display: inline-block;
+    margin-right: 150px;
+    background-color: white;
+}
+.countries_name-block div ul {
+    list-style: none;
+    margin: 0;
+    padding: 10px 0 0 10px;
+}
+.countries_name-block li {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.countries_name-block li a {
+    color: #000000;
+    text-decoration: none;
+}
+.countries_name-block li a:hover {
+    text-decoration: underline;
+}
